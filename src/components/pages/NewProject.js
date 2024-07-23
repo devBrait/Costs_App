@@ -23,7 +23,7 @@ function NewProject() {
             .then((resp) => resp.json())
             .then((data) => {
                 console.log(data)
-                navigate('/some-route') // Navegue para a rota desejada após a criação do projeto
+                navigate('/projects', { state: { message: 'Projeto criado com sucesso!' }}) // Rotina após criação do projeto
             })
             .catch((err) => console.log(err))
     }

@@ -1,17 +1,51 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "DevOps"
-        },
-        {
-            "id": 3,
-            "name": "Back-end"
-        }
-    ]
+  "projects": [
+    {
+      "id": "683f",
+      "name": "projeto teste",
+      "budget": "500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "cfc3",
+      "name": "testando função",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Back-end"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "840a",
+      "name": "teste back-end",
+      "budget": "200",
+      "category": {
+        "id": "3",
+        "name": "Back-end"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "DevOps"
+    },
+    {
+      "id": "3",
+      "name": "Back-end"
+    }
+  ]
 }
