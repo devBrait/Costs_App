@@ -10,28 +10,6 @@
       },
       "cost": 0,
       "services": []
-    },
-    {
-      "id": "cfc3",
-      "name": "testando função",
-      "budget": "2000",
-      "category": {
-        "id": "3",
-        "name": "Back-end"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "840a",
-      "name": "teste back-end",
-      "budget": "200",
-      "category": {
-        "id": "3",
-        "name": "Back-end"
-      },
-      "cost": 0,
-      "services": []
     }
   ],
   "categories": [
