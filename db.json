@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": "683f",
-      "name": "projeto teste",
-      "budget": "500",
+      "name": "projeto teste att",
+      "budget": "700",
       "category": {
         "id": "1",
         "name": "Infra"
