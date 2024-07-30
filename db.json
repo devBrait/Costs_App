@@ -1,12 +1,12 @@
 {
   "projects": [
     {
-      "id": "683f",
-      "name": "projeto teste att",
-      "budget": "700",
+      "id": "6ec0",
+      "name": "teste back-end",
+      "budget": "500",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Back-end"
       },
       "cost": 0,
       "services": []
