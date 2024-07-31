@@ -8,8 +8,27 @@
         "id": "3",
         "name": "Back-end"
       },
-      "cost": 0,
-      "services": []
+      "cost": 250,
+      "services": [
+        {
+          "name": "teste service",
+          "cost": "100",
+          "description": "teste",
+          "id": "8e3027c9-2504-40f6-9860-abe91a8ecbf0"
+        },
+        {
+          "name": "teste service",
+          "cost": "100",
+          "description": "teste",
+          "id": "8e3027c9-2504-40f6-9860-abe91a8ecbf0"
+        },
+        {
+          "name": "newService",
+          "cost": "50",
+          "description": "teste",
+          "id": "f04bf1fb-a5ba-40e9-a1a3-9b34480f4807"
+        }
+      ]
     }
   ],
   "categories": [
