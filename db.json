@@ -29,6 +29,17 @@
           "id": "f04bf1fb-a5ba-40e9-a1a3-9b34480f4807"
         }
       ]
+    },
+    {
+      "id": "77b4",
+      "name": "teste",
+      "budget": "345",
+      "category": {
+        "id": "2",
+        "name": "DevOps"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
